@@ -6,7 +6,7 @@
 
 <h3 align="left">&nbsp; :octocat: Github Stats</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api/?username=martgil&show_icons=true&theme=dracula&include_all_commits=true)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martgil&layout=donut&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api/?username=martgil&show_icons=true&include_all_commits=true)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martgil&layout=donut)
 
 <h3 align="left">🛠️&nbsp; Languages and Tools:</h3>
 
